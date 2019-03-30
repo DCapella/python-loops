@@ -10,7 +10,7 @@
 
 ## Code
 
-```
+```python
 # n, as int, is given from hackerrank.
 # range(x, y) where x is inclusive and default is 0 and where y is exclusive and no default.
 for i in range(1, 11):
