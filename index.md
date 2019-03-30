@@ -1,7 +1,7 @@
 # Problem
 ## By [HackerRank](www.hackerrank.com)
 
-> Given an integer, %n%, print its first %10% multiples. Each multiple %n x i% (where 1 %\lte i \lte 10%) should be printed on a new line in the form: n x i = result.
+> Given an integer, <a href="https://www.codecogs.com/eqnedit.php?latex=n" target="_blank"><img src="https://latex.codecogs.com/gif.latex?n" title="n" /></a>, print its first <a href="https://www.codecogs.com/eqnedit.php?latex=10" target="_blank"><img src="https://latex.codecogs.com/gif.latex?10" title="10" /></a> multiples. Each multiple <a href="https://www.codecogs.com/eqnedit.php?latex=n&space;\times&space;i" target="_blank"><img src="https://latex.codecogs.com/gif.latex?n&space;\times&space;i" title="n \times i" /></a> (where <a href="https://www.codecogs.com/eqnedit.php?latex=1&space;\le&space;i&space;\le&space;10" target="_blank"><img src="https://latex.codecogs.com/gif.latex?1&space;\le&space;i&space;\le&space;10" title="1 \le i \le 10" /></a>) should be printed on a new line in the form: n x i = result.
 
 ## Thought Process
 
